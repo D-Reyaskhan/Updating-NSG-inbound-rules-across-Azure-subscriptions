@@ -1,0 +1,1 @@
+# Updating-NSG-inbound-rules-across-Azure-subscriptions
